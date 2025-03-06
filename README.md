@@ -1,4 +1,4 @@
-
+The Weather App is a React-based web application that provides real-time weather updates for any city using the OpenWeather API. It features a clean, responsive UI with dynamic weather icons, temperature, humidity, and condition details. Users can search for any city and get instant weather information. Built with React.js, and Tailwind CSS, this app ensures fast and reliable performance
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
